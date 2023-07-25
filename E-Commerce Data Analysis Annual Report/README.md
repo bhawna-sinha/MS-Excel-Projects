@@ -1,4 +1,4 @@
-This an E-Commerce Annual Report dashboard created by using MS Excel to analyze the sales and understand the need and behavior of customers.
+This is an E-Commerce Annual Report dashboard created by using MS Excel to analyze the sales and understand the need and behavior of customers.
 
 ![E-Commerce Annual Report](https://github.com/bhawna-sinha/MS-Excel-Projects/blob/main/E-Commerce%20Data%20Analysis%20Annual%20Report/Screenshot%202023-07-23%20100526.png?raw=true)
 
